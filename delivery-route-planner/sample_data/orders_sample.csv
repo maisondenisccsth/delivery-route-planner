@@ -1,0 +1,31 @@
+﻿order_id,customer,address,lat,lon,plus_code,demand,tw_start,tw_end,service_min,priority,current_route,current_seq,note
+SO-1001,Restaurant Silom #1,"Silom, Bangkok",13.720614,100.531415,,4,09:00,14:00,15,1,Truck 1,1,Restaurant
+SO-1002,Cafe Sathorn #2,"Sathorn, Bangkok",13.714006,100.532325,,3,07:30,12:00,10,1,Truck 1,2,Cafe
+SO-1003,Hotel Riverside #3,"Riverside, Bangkok",13.721938,100.507118,,11,08:00,11:00,20,2,Truck 1,3,Hotel
+SO-1004,Restaurant Ratchadamri #4,"Ratchadamri, Bangkok",13.736946,100.540547,,5,09:00,14:00,15,1,Truck 1,4,Restaurant
+SO-1005,Cafe Ploenchit #5,"Ploenchit, Bangkok",,,PGVQ+PX,5,07:30,12:00,10,1,Truck 2,1,Cafe
+SO-1006,Hotel Asok #6,"Asok, Bangkok",13.732537,100.561407,,12,08:00,11:00,20,2,Truck 2,2,Hotel
+SO-1007,Restaurant Thonglor #7,"Thonglor, Bangkok",13.725308,100.576885,,6,09:00,14:00,15,1,Truck 2,3,Restaurant
+SO-1008,Restaurant Ekkamai #8,"Ekkamai, Bangkok",13.723912,100.581649,,8,09:00,14:00,15,1,Truck 2,4,Restaurant
+SO-1009,Cafe Ratchada #9,"Ratchada, Bangkok",13.762958,100.569764,,2,07:30,12:00,10,1,Truck 2,5,Cafe
+SO-1010,Restaurant Lat Phrao #10,"Lat Phrao, Bangkok",13.817904,100.560943,,8,09:00,14:00,15,1,Truck 2,6,Restaurant
+SO-1011,Restaurant Ari #11,"Ari, Bangkok",13.776026,100.546369,,7,09:00,14:00,15,1,Truck 1,5,Restaurant
+SO-1012,Restaurant Rama 9 #12,"Rama 9, Bangkok",13.753975,100.559876,,10,09:00,14:00,15,1,Truck 2,7,Restaurant
+SO-1013,Hotel Bang Na #13,"Bang Na, Bangkok",13.669191,100.605403,,15,08:00,11:00,20,2,Truck 2,8,Hotel
+SO-1014,Cafe Pinklao #14,"Pinklao, Bangkok",13.774607,100.493683,,2,07:30,12:00,10,1,Truck 1,6,Cafe
+SO-1015,Restaurant Chinatown #15,"Chinatown, Bangkok",13.734639,100.506473,,7,09:00,14:00,15,1,Truck 1,7,Restaurant
+SO-1016,Restaurant Rama 3 #16,"Rama 3, Bangkok",13.704392,100.531242,,8,09:00,14:00,15,1,Truck 1,8,Restaurant
+SO-1017,Restaurant Ari #17,"Ari, Bangkok",13.776603,100.544947,,10,09:00,14:00,15,1,Truck 1,9,Restaurant
+SO-1018,Hotel Chinatown #18,"Chinatown, Bangkok",,,PGM4+94,20,08:00,11:00,20,2,Truck 2,9,Hotel
+SO-1019,Hotel Riverside #19,"Riverside, Bangkok",13.726224,100.516354,,20,08:00,11:00,20,2,Truck 1,10,Hotel
+SO-1020,Restaurant Chinatown #20,"Chinatown, Bangkok",13.738173,100.511698,,4,09:00,14:00,15,1,Truck 1,11,Restaurant
+SO-1021,Restaurant Chinatown #21,"Chinatown, Bangkok",13.741775,100.508899,,5,09:00,14:00,15,1,Truck 1,12,Restaurant
+SO-1022,Hotel Lat Phrao #22,"Lat Phrao, Bangkok",13.811962,100.559255,,17,08:00,11:00,20,2,Truck 2,10,Hotel
+SO-1023,Hotel Riverside #23,"Riverside, Bangkok",13.721426,100.510445,,12,08:00,11:00,20,2,Truck 1,13,Hotel
+SO-1024,Supermarket Pinklao #24,"Pinklao, Bangkok",13.774455,100.484645,,13,07:00,12:00,25,3,Truck 1,14,Supermarket
+SO-1025,Supermarket Bang Na #25,"Bang Na, Bangkok",13.662415,100.599819,,11,07:00,12:00,25,3,Truck 2,11,Supermarket
+SO-1026,Hotel Ekkamai #26,"Ekkamai, Bangkok",13.726297,100.582917,,14,08:00,11:00,20,2,Truck 2,12,Hotel
+SO-1027,Hotel Silom #27,"Silom, Bangkok",13.726753,100.530757,,15,08:00,11:00,20,2,Truck 1,15,Hotel
+SO-1028,Cafe Ploenchit #28,"Ploenchit, Bangkok",13.743248,100.548881,,2,07:30,12:00,10,1,Truck 2,13,Cafe
+SO-1029,Supermarket Chinatown #29,"Chinatown, Bangkok",13.74448,100.514992,,16,07:00,12:00,25,3,Truck 1,16,Supermarket
+SO-1030,Restaurant Bang Na #30,"Bang Na, Bangkok",13.666306,100.604704,,7,09:00,14:00,15,1,Truck 2,14,Restaurant
